@@ -5,7 +5,7 @@ int main(void) {
   arr[2] = 88;
   printf("%d\n", arr[2]);
 
-  float arr2[3];  // declare single-dimension massive
+  float arr2[3];  //12  declare single-dimension massive
   arr2[0] = 5.5f;
   arr2[1] = 3.43f;
   arr2[2] = 0.9f;
